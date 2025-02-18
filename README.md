@@ -19,4 +19,4 @@ git push
 2. prince
 3. islam
 
-[studywithprince](http://www.studywithsam.com)
+[studywithprince](http://www.studywithprince.com)
